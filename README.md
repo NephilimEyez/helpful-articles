@@ -2,7 +2,7 @@
 
 [Why is learning to code so damn hard?](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
 
-[Things I wish Someone Had Told Me When I Was LEarning How To Code](https://www.freecodecamp.org/news/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329/)
+[Things I wish Someone Had Told Me When I Was Learning How To Code](https://www.freecodecamp.org/news/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329/)
 
 [TedTalk - the power of believing you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)
 
